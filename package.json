@@ -10,6 +10,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-architects/paper-design": "^0.0.20",
     "@angular/animations": "~12.2.0",
     "@angular/common": "~12.2.0",
     "@angular/compiler": "~12.2.0",
